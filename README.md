@@ -1,4 +1,3 @@
-#Task 1
 <b>Caesar Cipher Program</b>
 
 This Python program implements the Caesar Cipher algorithm, allowing users to encrypt and decrypt text by shifting the characters in the message. The program is designed to be user-friendly, with prompts guiding the user through the encryption and decryption process.
@@ -16,4 +15,4 @@ This Python program implements the Caesar Cipher algorithm, allowing users to en
 4. <b>Specify Shift:</b> Enter the shift value for the Caesar Cipher.
 5. <b>View Result:</b> The program displays the encrypted or decrypted message.
 
-This code was developed as part of my internship at The Prodigy Infotech, demonstrating basic encryption and decryption techniques using the Caesar Cipher.
+This code was developed as part of my personal project, demonstrating basic encryption and decryption techniques using the Caesar Cipher.
